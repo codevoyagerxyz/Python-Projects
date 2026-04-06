@@ -1,0 +1,19 @@
+students = []
+marks = []
+n = int(input("Enter number of students: "))
+for i in range(n):
+    name = input("Enter student name: ")
+    mark = int(input("Enter marks: "))
+    students.append(name)
+    marks.append(mark)
+average = sum(marks) / len(marks)
+highest = max(marks)
+lowest = min(marks)
+topper_index = marks.index(highest)
+topper_name = students[topper_index]
+print("\n--- Results ---")
+print("Average Marks:", average)
+print("Highest Marks:", highest)
+print("Lowest Marks:", lowest)
+print("Topper:", topper_name)
+print("Topper:",len(topper_name))
