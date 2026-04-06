@@ -32,3 +32,8 @@ To continuously build projects, improve coding skills, and grow as a developer.
 ## 📈 Progress
 
 Learning. Building. Improving. 🔁
+
+## 🤝 Contributions
+
+This repository is part of my learning journey.  
+Feel free to suggest improvements or ideas — always open to learning 🚀
